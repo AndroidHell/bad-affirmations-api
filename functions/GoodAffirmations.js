@@ -10,6 +10,11 @@
 exports.handler = async () => {
   return {
     statusCode: 200,
+    headers: {
+      "Access-Control-Allow-Origin": "*", // Allow requests from any origin
+      "Access-Control-Allow-Methods": "GET, POST, OPTIONS", // Specify allowed methods
+      "Access-Control-Allow-Headers": "Content-Type", // Specify allowed headers
+    },
     body: JSON.stringify({
       GoodAffirmations: [
         "You are capable of amazing things.",
