@@ -1,12 +1,3 @@
-// exports.handler = async () => {
-//   const goodAffirmations = [];
-
-//   return {
-//     statusCode: 200,
-//     body: JSON.stringify(goodAffirmations),
-//   };
-// };
-
 exports.handler = async () => {
   return {
     statusCode: 200,

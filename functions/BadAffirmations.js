@@ -1,14 +1,3 @@
-//exports.handler = async () => {
-//  const badAffirmations = [
-
-//  ];
-//
-//  return {
-//    statusCode: 200,
-//    body: JSON.stringify(badAffirmations),
-//  };
-//};
-
 exports.handler = async () => {
   return {
     statusCode: 200,
@@ -126,6 +115,22 @@ exports.handler = async () => {
         "You’re not lost. You’re just exploring poorly.",
         "Taking the same route to work is a great way to make new friends, and stalkers.",
         "You are using incognito but will just download any random app, huh?",
+        "No one is coming to save you. You are the adult. I'm so sorry",
+        "I'm capable of making good decisions. But I'm fucking amazing at bad ones",
+        "The only person you can truly rely on is you. What a fucking nightmare",
+        "Do something nice for someone today. Leave them alone.",
+        "Do something nice for someone today. Leave them alone. Life is hard enough wihout your bullshit.",
+        "Stop worrying about what other people think. I mean, have you met other people? They're awful.",
+        "There will never be a perfect time. Make that terrible decision now. you deserve it.",
+        "Being dead inside doesn't mean you can't live a happy life. Just learn to love being dead inside. Really lean into it.",
+        "Stop wondering if you're good enough. You're not.",
+        "You are never alone. Anxiety will always be there for you.",
+        "Today I am taking control of my emotions. I am choosing anger.",
+        "Have a panic attack. You've earned it.",
+        "Have a meltdown. As a treat",
+        "You're not the same person you were a year ago. You're even worse now.",
+        "You're doing your best. Which is fucking embarrassing.",
+        "Your are enough. By that I mean we don't need any more of you.",
       ],
     }),
   };
