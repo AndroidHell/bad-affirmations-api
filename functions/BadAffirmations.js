@@ -119,7 +119,7 @@ exports.handler = async () => {
         "I'm capable of making good decisions. But I'm fucking amazing at bad ones",
         "The only person you can truly rely on is you. What a fucking nightmare",
         "Do something nice for someone today. Leave them alone.",
-        "Do something nice for someone today. Leave them alone. Life is hard enough wihout your bullshit.",
+        "Do something nice for someone today. Leave them alone. Life is hard enough without your bullshit.",
         "Stop worrying about what other people think. I mean, have you met other people? They're awful.",
         "There will never be a perfect time. Make that terrible decision now. you deserve it.",
         "Being dead inside doesn't mean you can't live a happy life. Just learn to love being dead inside. Really lean into it.",
